@@ -1,33 +1,73 @@
+<div align="center">
+
 # Hi, I'm Jex Hsu
 
-## 中文
+**Automation / Data Collection / Web Reverse Engineering / Developer Tooling**
+
+把零散流程做成稳定工具，关注真实工作流、可维护性和可迁移的开发环境。
+
+</div>
+
+## About Me
 
 我是 Jex Hsu，一名关注自动化、数据采集、Web 逆向与开发效率工具的开发者。我的项目主要围绕实际问题展开，包括新闻聚合爬虫、Chrome DevTools Protocol 网络请求捕获、关键词拓展、Web 参数生成与反混淆研究、桌面自动化工具，以及 macOS/Linux 开发环境的可恢复配置管理。
 
-我主要使用 Python、JavaScript 和 Shell，也在 TypeScript、Rust、C 等方向保持学习和实践。我喜欢把零散流程整理成稳定工具，从需求拆解、架构设计、CLI/GUI 实现、网络请求处理、异步任务、会话管理，到打包部署和环境迁移，尽量让工具真正可用、可维护。
+I'm a developer focused on automation, data collection, web reverse engineering, and practical developer tooling. I enjoy turning fragmented workflows into reliable tools, covering requirement analysis, architecture design, CLI/GUI implementation, network handling, asynchronous tasks, session management, packaging, deployment, and environment migration.
 
-### 代表项目
+## Tech Stack
 
-- [bioscraper](https://github.com/jexhsu/bioscraper): 生物安全新闻聚合爬虫，包含多源采集、解析与文本化数据流。
-- [cdp_capture](https://github.com/jexhsu/cdp_capture): 基于 Chrome DevTools Protocol 的网络请求捕获工具，支持实时监听、HAR 生成和远程调试连接。
-- [mashangpa](https://github.com/jexhsu/mashangpa): Web 题目客户端与解法集合，覆盖参数生成、API 调用、加密工具和 JavaScript 反混淆。
-- [dotfiles](https://github.com/jexhsu/dotfiles): macOS/Linux 工作站配置，覆盖 zsh、tmux、Git、Vim/Neovim、Ghostty 和包管理清单。
-- [portfolio](https://github.com/jexhsu/portfolio): 基于 Next.js / TypeScript 的个人作品集项目。
+### Languages
 
-## English
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=000)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
-I'm Jex Hsu, a developer focused on automation, data collection, web reverse engineering, and practical developer tooling. My work is built around real workflows, including news aggregation crawlers, Chrome DevTools Protocol network capture, keyword expansion, web parameter generation and deobfuscation research, desktop automation tools, and reproducible macOS/Linux workstation configuration.
+### Frontend & Runtime
 
-I mainly work with Python, JavaScript, and Shell, while also learning and experimenting with TypeScript, Rust, and C. I enjoy turning fragmented workflows into reliable tools, covering requirement analysis, architecture design, CLI/GUI implementation, network handling, asynchronous tasks, session management, packaging, deployment, and environment migration.
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Featured Projects
+### Automation, Reverse Engineering & Tooling
 
-- [bioscraper](https://github.com/jexhsu/bioscraper): A biosecurity news crawler and aggregator with source-specific crawlers, parsers, and a clean raw-to-text data flow.
-- [cdp_capture](https://github.com/jexhsu/cdp_capture): A Chrome DevTools Protocol network capture utility with real-time monitoring, HAR generation, and remote debugging support.
-- [mashangpa](https://github.com/jexhsu/mashangpa): A collection of web problem clients and solutions covering parameter generation, API handling, cryptographic utilities, and JavaScript deobfuscation.
-- [dotfiles](https://github.com/jexhsu/dotfiles): Personal macOS/Linux workstation configuration for zsh, tmux, Git, Vim/Neovim, Ghostty, and package manifests.
-- [portfolio](https://github.com/jexhsu/portfolio): A personal portfolio project built with Next.js and TypeScript.
+![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 
-## Tech Focus
+## What I Build
 
-Python / JavaScript / Shell / TypeScript / Web automation / Crawlers / Reverse engineering / CLI tools / Desktop tooling / Development environment management
+- Automation tools for repetitive web and desktop workflows.
+- Crawlers and parsers for structured collection, cleaning, and aggregation.
+- Web reverse engineering experiments around signatures, parameters, APIs, and JavaScript deobfuscation.
+- CLI and GUI utilities that turn one-off workflows into reusable tools.
+- Reproducible workstation configuration for macOS and Linux.
+
+## Featured Projects
+
+| Project | Stack | What it does |
+| --- | --- | --- |
+| [bioscraper](https://github.com/jexhsu/bioscraper) | Python | Biosecurity news crawler and aggregator with source-specific crawlers, parsers, and a raw-to-text data flow. |
+| [cdp_capture](https://github.com/jexhsu/cdp_capture) | Python / CDP | Chrome DevTools Protocol network capture utility with real-time monitoring, HAR generation, and remote debugging support. |
+| [mashangpa](https://github.com/jexhsu/mashangpa) | Python / JavaScript | Web problem clients and solutions covering parameter generation, API handling, cryptographic utilities, and JS deobfuscation. |
+| [dotfiles](https://github.com/jexhsu/dotfiles) | Shell / Lua / Vim Script | Personal macOS/Linux workstation configuration for zsh, tmux, Git, Vim/Neovim, Ghostty, and package manifests. |
+| [portfolio](https://github.com/jexhsu/portfolio) | TypeScript / Next.js | Personal portfolio project built with Next.js and TypeScript. |
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=jexhsu&show_icons=true&theme=github_dark&hide_border=true" alt="Jex Hsu GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jexhsu&layout=compact&theme=github_dark&hide_border=true" alt="Jex Hsu top languages" />
+
+</div>
