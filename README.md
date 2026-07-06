@@ -63,15 +63,9 @@ I'm a developer focused on automation, data collection, web reverse engineering,
 | [dotfiles](https://github.com/jexhsu/dotfiles) | Shell / Lua / Vim Script | Personal macOS/Linux workstation configuration for zsh, tmux, Git, Vim/Neovim, Ghostty, and package manifests. |
 | [portfolio](https://github.com/jexhsu/portfolio) | TypeScript / Next.js | Personal portfolio project built with Next.js and TypeScript. |
 
-## GitHub Stats
+## GitHub Activity
 
 <div align="center">
-
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jexhsu&amp;theme=github_dark" alt="Jex Hsu GitHub stats" />
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jexhsu&amp;theme=github_dark" alt="Jex Hsu top languages" />
-
-<br />
-<br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jexhsu/JexHsu/output/github-snake-dark.svg" />
