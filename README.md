@@ -70,4 +70,13 @@ I'm a developer focused on automation, data collection, web reverse engineering,
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=jexhsu&show_icons=true&theme=github_dark&hide_border=true" alt="Jex Hsu GitHub stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jexhsu&layout=compact&theme=github_dark&hide_border=true" alt="Jex Hsu top languages" />
 
+<br />
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jexhsu/JexHsu/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jexhsu/JexHsu/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/jexhsu/JexHsu/output/github-snake.svg" alt="GitHub contribution snake animation" />
+</picture>
+
 </div>
