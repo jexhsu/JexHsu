@@ -30,8 +30,7 @@ jobs:
       - name: Publish snake SVGs
         run: |
           cd dist
-          git init
-          git checkout -b output
+          git init --initial-branch=output
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add github-snake.svg github-snake-dark.svg
